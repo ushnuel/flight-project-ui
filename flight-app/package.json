@@ -14,7 +14,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://ushnuel.github.io",
+    "homepage": "https://ushnuel.github.io/flight-project-ui",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
