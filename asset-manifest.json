@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.14fd0bf4.chunk.css",
-    "main.js": "/static/js/main.fc5f4e09.chunk.js",
-    "main.js.map": "/static/js/main.fc5f4e09.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.33ab86c1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.33ab86c1.js.map",
-    "static/js/2.e636a536.chunk.js": "/static/js/2.e636a536.chunk.js",
-    "static/js/2.e636a536.chunk.js.map": "/static/js/2.e636a536.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c78448f33a24be418e0abf344f66d26c.js": "/precache-manifest.c78448f33a24be418e0abf344f66d26c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.14fd0bf4.chunk.css.map": "/static/css/main.14fd0bf4.chunk.css.map"
+    "main.css": "/flight-project-ui/static/css/main.14fd0bf4.chunk.css",
+    "main.js": "/flight-project-ui/static/js/main.25aa1c0c.chunk.js",
+    "main.js.map": "/flight-project-ui/static/js/main.25aa1c0c.chunk.js.map",
+    "runtime-main.js": "/flight-project-ui/static/js/runtime-main.ca4f13be.js",
+    "runtime-main.js.map": "/flight-project-ui/static/js/runtime-main.ca4f13be.js.map",
+    "static/js/2.59795e72.chunk.js": "/flight-project-ui/static/js/2.59795e72.chunk.js",
+    "static/js/2.59795e72.chunk.js.map": "/flight-project-ui/static/js/2.59795e72.chunk.js.map",
+    "index.html": "/flight-project-ui/index.html",
+    "precache-manifest.bd5012ac85af2221d08a23df3b5904c1.js": "/flight-project-ui/precache-manifest.bd5012ac85af2221d08a23df3b5904c1.js",
+    "service-worker.js": "/flight-project-ui/service-worker.js",
+    "static/css/main.14fd0bf4.chunk.css.map": "/flight-project-ui/static/css/main.14fd0bf4.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.33ab86c1.js",
-    "static/js/2.e636a536.chunk.js",
+    "static/js/runtime-main.ca4f13be.js",
+    "static/js/2.59795e72.chunk.js",
     "static/css/main.14fd0bf4.chunk.css",
-    "static/js/main.fc5f4e09.chunk.js"
+    "static/js/main.25aa1c0c.chunk.js"
   ]
 }
